@@ -1,3 +1,3 @@
-# prashant_moxey_assignment
+# prashant_moxey
 
 A new Flutter project.
